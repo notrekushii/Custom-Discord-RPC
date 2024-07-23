@@ -1,0 +1,13 @@
+﻿  Discord.cpp
+  Main.cpp
+  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  dllmain.cpp
+  INIReader.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  Generating Code...
+  ini.c
+  LINK : C:\Users\princ\Desktop\custom_rpc\Custom RPC\x64\Debug\Custom RPC.dll not found or not built by the last incremental link; performing full link
+  Custom RPC.vcxproj -> C:\Users\princ\Desktop\custom_rpc\Custom RPC\x64\Debug\Custom RPC.dll

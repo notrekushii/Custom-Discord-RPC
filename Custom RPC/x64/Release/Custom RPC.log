@@ -1,0 +1,16 @@
+﻿  Discord.cpp
+  Main.cpp
+  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  dllmain.cpp
+  INIReader.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  ini.c
+  Generating code
+  216 of 345 functions (62.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Custom RPC.vcxproj -> C:\Users\princ\Desktop\custom_rpc\Custom RPC\x64\Release\Custom RPC.dll
